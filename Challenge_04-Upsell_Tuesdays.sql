@@ -10,3 +10,5 @@ SELECT
     GROUP BY
             DATEPART(WEEKDAY, OrderDate)
 
+    ORDER BY [Revenue per order]
+
